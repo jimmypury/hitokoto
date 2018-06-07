@@ -1,4 +1,4 @@
-﻿<?php if(!defined('AAAZZZ')){echo "Access Denied.";};?>
+﻿<?php if(!defined('IN_HITOKOTO')){echo "Access Denied.";exit();};?>
 有你在的日子才是我的日常。
 只要你还记得我，我就会一直在你的身边。
 我们开始一起攀登，这长长的、长长的坡道。

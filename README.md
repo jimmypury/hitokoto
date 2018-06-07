@@ -28,7 +28,7 @@ Respond: `恕我无礼，我觉得这世上唯一能够信任的人就是我自�
 
 Normal: `text`
 
-Option: `javascript`
+Option: `javascript` or `js`
 
 Request URL: https://api.jimmyho.top/hitokoto/?encode=javascript
 
