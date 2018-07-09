@@ -16,7 +16,7 @@ Normal: Random ID
 
 Option: `$id_min` ~ `$id_max`
 
-Request URL: https://api.jimmyho.top/hitokoto/?id=1234
+Request URL: https://api.jimmyho.net/hitokoto/?id=1234
 
 Request Method: `GET`
 
@@ -30,13 +30,13 @@ Normal: `text`
 
 Option: `javascript` or `js`
 
-Request URL: https://api.jimmyho.top/hitokoto/?encode=javascript
+Request URL: https://api.jimmyho.net/hitokoto/?encode=javascript
 
 Request Method: `GET`
 
 Respond: `function jimmyhitokoto(){document.write("就算是对我抱有敌意的人，也是被某个人深爱着而降生在这个世界上的。");}`
 
-(You can use it with `<script type="text/javascript" src="https://api.jimmyho.top/hitokoto/?encode=javascript"></script>
+(You can use it with `<script type="text/javascript" src="https://api.jimmyho.net/hitokoto/?encode=javascript"></script>
 <span class="jimmyhitokoto"><script>jimmyhitokoto()</script></span>`)
 
 # Acknowledgement
